@@ -1,0 +1,9 @@
+export const HOME_SCREEN = 'HOME_SCREEN'
+export const BANDUNG_SCREEN = 'BANDUNG_SCREEN'
+export const LOGIN_SCREEN = 'LOGIN_SCREEN'
+export const REGISTRATION_SCREEN = 'REGISTRATION_SCREEN'
+export const CALENDAR_SCREEN = 'CALENDAR_SCREEN'
+export const ABOUT_SCREEN = 'ABOUT_SCREEN'
+
+//---------------------------
+export const BOOKING_SCREEN = 'BOOKING_SCREEN'
