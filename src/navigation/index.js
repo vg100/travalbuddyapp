@@ -10,7 +10,7 @@ import Registration from '../screens/RegistrationForm';
 import Calendar from '../screens/Calendar';
 import About from '../screens/About'
 import Details from '../screens/Details';
-import {MaterialCommunityIcons,Fontisto,AntDesign,Feather} from '../../src/Constants/Icons';
+import {MaterialCommunityIcons,Fontisto,AntDesign,Feather} from '../Icons';
 import Booking from '../screens/Booking';
 import SplashScreen from '../screens/Splash';
 import Payment from '../screens/payment';
